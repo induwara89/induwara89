@@ -1,4 +1,6 @@
 ```bash
+Hi👋,
+
 > whoami
 Induwara Jayasingha
 
@@ -6,7 +8,7 @@ Induwara Jayasingha
 Full-Stack Developer
 
 > stack
-HTML• CSS • JS • Mongodb • MySQL • Angular • React • Node.js • Express.js
+HTML • CSS • JS • Mongodb • MySQL • Angular • React • Node.js • Express.js
 
 > status
 Building. Learning. Improving.
