@@ -1,16 +1,18 @@
-## Hi there 👋
+```bash
+> whoami
+Induwara Jayasingha
 
-<!--
-**induwara89/induwara89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> role
+Full-Stack Developer
 
-Here are some ideas to get you started:
+> stack
+HTML• CSS • JS • Mongodb • MySQL • Angular • React • Node.js • Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> status
+Building. Learning. Improving.
+
+> mission
+Code with purpose ⚡
+
+> github
+github.com/induwara89
